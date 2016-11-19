@@ -43,8 +43,8 @@ published: true
 
 <br> Я заранее благодарю Вас за любую реакцию на отражение моего мира. <br>
 <br> С уважением, Федоренко Андрей
-<br> **Моб.:** +7(900)2336666
-<br> **E-mail:** [aqvalite@gmail.com](malito:aqvalite@gmail.com)
-<br> **Социум:** [Linkedin/AndreyFe](https://www.linkedin.com/in/andreyfe) ; [Facebook/AndreyFe](https://www.facebook.com/AndreyFe)
+<br> **Моб.:**             [+7(900)2336666](<a href="tel:+79002336666"> </a>)
+<br> **Электронная почта** [aqvalite@gmail.com](malito:aqvalite@gmail.com)
+<br> **Социум:**           [Linkedin/AndreyFe](https://www.linkedin.com/in/andreyfe) ; [Facebook/AndreyFe](https://www.facebook.com/AndreyFe)
 
 ## Спасибо, что дочитали до конца
