@@ -4,7 +4,7 @@ html {
   font: 16px/1.5 Inconsolata, sans-serif;
 }
 
-@media (min-width: 30rem) {
+@media (min-width: 300rem) {
   html {
     font-size: 20px;
   }
@@ -17,7 +17,7 @@ body {
 
 @media (min-width: 30rem) {
   body {
-    margin-top: 50rem;
+    margin-top: 5rem;
   }
 }
 
