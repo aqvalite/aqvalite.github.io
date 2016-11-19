@@ -12,7 +12,7 @@ layout: default
 После окончания университета (специализация - преподавание биологии и химии), я стал заниматься информационными технологиями, это занятие меня увлекло на следующие 9 лет.
 И на сегодняшний день могу сказать, что в я профессионал в решении ИТ задач.<br>
 В тоже самое время, я продолжал интересоваться "биологическими науками", в мою сферу интересов входило все что так или иначе связано с зеленой, серой биотехнологией. <br>    
-И вот теперь я ищу работу, связанную с границей знаний, ИТ и биологией в широком смысле (ответ почему именно этим, я кратко описал в "лирическом отступлении"). <br>
+И вот теперь я ищу работу, связанную с границей знаний, ИТ и биологией в широком смысле (почему именно этим, я кратко описал в "лирическом отступлении"). <br>
 <hr>
 
 ## Чем, бы я хотел заниматься?
@@ -49,3 +49,26 @@ E-mail: aqvalite@gmail.com
 
 
 ## Спасибо, что дочитали до конца.
+
+
+### Other Files
+
+* Edit `_config.yml` to change the site's title and description.
+* Edit `_includes/head.html` to add custom code to `<head>`.
+* Edit `_includes/scripts.html` to add custom code before `</body>`.
+* Edit `CNAME` to host on a custom domain.
+* Edit `README.md` before pushing your code.
+
+
+
+### Supported Tags
+
+Solo supports lists, `<hr>`s, `<table>`s,
+
+> blockquotes, and...
+
+~~~html
+<pre>code blocks with syntax highlighting.</pre>
+~~~
+
+### Keep Solo up to date
