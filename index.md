@@ -41,12 +41,10 @@ published: true
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/cRr5pdUDSo5Hkh" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-<br> По ссылке вы найдете моё СV (https://goo.gl/MBkFD6), а также презентацию (https://goo.gl/BkBcDE) продвижения биотех направления на примере Тандера.
-
 <br> Я заранее благодарю Вас за любую реакцию на отражение моего мира.
 <br> С уважением, Федоренко Андрей
 <br> Моб.: +7(900)2336666
 <br> [E-mail: aqvalite@gmail.com](malito:aqvalite@gmail.com)
 <br> [Социум: Facebook/AndreyFe](https://www.facebook.com/AndreyFe)
 
-## Спасибо, что дочитали до конца.
+## Спасибо, что дочитали до конца
