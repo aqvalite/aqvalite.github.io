@@ -49,26 +49,3 @@ E-mail: aqvalite@gmail.com
 
 
 ## Спасибо, что дочитали до конца.
-
-
-### Other Files
-
-* Edit `_config.yml` to change the site's title and description.
-* Edit `_includes/head.html` to add custom code to `<head>`.
-* Edit `_includes/scripts.html` to add custom code before `</body>`.
-* Edit `CNAME` to host on a custom domain.
-* Edit `README.md` before pushing your code.
-
-
-
-### Supported Tags
-
-Solo supports lists, `<hr>`s, `<table>`s,
-
-> blockquotes, and...
-
-~~~html
-<pre>code blocks with syntax highlighting.</pre>
-~~~
-
-### Keep Solo up to date
