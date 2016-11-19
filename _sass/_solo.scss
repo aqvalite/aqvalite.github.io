@@ -102,7 +102,7 @@ blockquote p:last-child {
 hr {
   border: none;
   margin: 1.5rem 0;
-  border-bottom: 25px solid #ccc;
+  border-bottom: 1px solid #ccc;
   position: relative;
   top: -1px;
 }
@@ -148,5 +148,5 @@ pre > code {
 .container {
   max-width: 30rem;
   margin: 0 auto;
-  padding: 0 1rem;
+  padding: 0 30rem;
 }
