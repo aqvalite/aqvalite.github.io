@@ -4,7 +4,7 @@ html {
   font: 16px/1.5 Inconsolata, sans-serif;
 }
 
-@media (min-width: 20rem) {
+@media (min-width: 30rem) {
   html {
     font-size: 20px;
   }
@@ -15,7 +15,7 @@ body {
   color: #333;
 }
 
-@media (min-width: 20rem) {
+@media (min-width: 30rem) {
   body {
     margin-top: 5rem;
   }
@@ -146,7 +146,7 @@ pre > code {
 }
 
 .container {
-  max-width: 5rem;
+  max-width: 30rem;
   margin: 0 auto;
   padding: 0 1rem;
 }
