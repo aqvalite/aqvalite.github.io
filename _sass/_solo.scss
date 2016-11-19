@@ -4,20 +4,20 @@ html {
   font: 16px/1.5 Inconsolata, sans-serif;
 }
 
-@media (min-width: 10rem) {
+@media (min-width: 30rem) {
   html {
     font-size: 20px;
   }
 }
 
 body {
-  margin: 2rem 0 5rem;  /* отступ сверху */
+  margin: 2rem 0 5rem;
   color: #333;
 }
 
-@media (min-width: 10rem) {   /* отступ  */
+@media (min-width: 30rem) {
   body {
-    margin-top: 5rem;   /* отступ снизу */
+    margin-top: 5rem;
   }
 }
 
