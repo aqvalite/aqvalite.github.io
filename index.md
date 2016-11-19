@@ -44,7 +44,8 @@ published: true
 E-mail: aqvalite@gmail.com
 Социум: https://www.facebook.com/AndreyFe
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/vtxriVW9plq1mU" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/cRr5pdUDSo5Hkh" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/secret/cRr5pdUDSo5Hkh" title="Cтратегия развития биотехнологического направления АО Тандер " target="_blank">Cтратегия развития биотехнологического направления АО Тандер </a> </strong> from <strong><a target="_blank" href="http://www.slideshare.net/AndreyTitov">Andrey Titov</a></strong> </div>
 
 ## Спасибо, что дочитали до конца.
