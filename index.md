@@ -30,22 +30,23 @@ published: true
 1. Могу ли я быть чем-то полезным вашей компании?
 2. Есть ли у вас биотех партнеры, возможно знаете сторонние проекты, в которых я смогу поучаствовать?
 3. Как бы вы действовали в моей ситуации, чтобы предприняли?
-4. Граничные условия моей задачи - невозможность релокации, география только Краснодар (семья не готова к переезду)
+<br> Граничные условия моей задачи - невозможность релокации, география только Краснодар (семья не готова к переезду)
 <hr>
 
 
 ## Дополнительные материалы
+<br> Резюме (копия в PDF)
 
-По ссылке вы найдете моё СV (https://goo.gl/MBkFD6), а также презентацию (https://goo.gl/BkBcDE) продвижения биотех направления на примере Тандера.
-Наталья, я заранее благодарю Вас за любую реакцию на отражение моего мира. <br>
-
-С уважением, Федоренко Андрей
-Моб.: +7(900)2336666
-E-mail: aqvalite@gmail.com
-Социум: https://www.facebook.com/AndreyFe
-
+<br> Презентация продвижения биотехнологического направления на примере АО Тандер
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/cRr5pdUDSo5Hkh" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-<div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/secret/cRr5pdUDSo5Hkh" title="Cтратегия развития биотехнологического направления АО Тандер " target="_blank">Cтратегия развития биотехнологического направления АО Тандер </a> </strong> from <strong><a target="_blank" href="http://www.slideshare.net/AndreyTitov">Andrey Titov</a></strong> </div>
+
+<br> По ссылке вы найдете моё СV (https://goo.gl/MBkFD6), а также презентацию (https://goo.gl/BkBcDE) продвижения биотех направления на примере Тандера.
+
+<br> Я заранее благодарю Вас за любую реакцию на отражение моего мира.
+<br> С уважением, Федоренко Андрей
+<br> Моб.: +7(900)2336666
+<br> [E-mail: aqvalite@gmail.com](malito:aqvalite@gmail.com)
+<br> [Социум: Facebook/AndreyFe](https://www.facebook.com/AndreyFe)
 
 ## Спасибо, что дочитали до конца.
