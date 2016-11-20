@@ -36,6 +36,8 @@ published: true
 
 ## Дополнительные материалы
 <br> Резюме (копия в PDF)
+
+https://drive.google.com/open?id=0B9i6rNV6u9XuMV9vdEtrWkljSTg
 <iframe src="https://drive.google.com/file/d/0B9i6rNV6u9XuMV9vdEtrWkljSTg/preview" width="640" height="480"></iframe>
 
 <br> Презентация продвижения биотехнологического направления на примере АО Тандер
