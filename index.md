@@ -36,6 +36,7 @@ published: true
 
 ## Дополнительные материалы
 <br> Резюме (копия в PDF)
+<iframe src="https://drive.google.com/open?id=0B9i6rNV6u9XuMV9vdEtrWkljSTg" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 <br> Презентация продвижения биотехнологического направления на примере АО Тандер
 
