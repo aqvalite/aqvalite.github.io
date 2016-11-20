@@ -40,7 +40,7 @@ published: true
 
 <br> Презентация продвижения биотехнологического направления на примере АО Тандер
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/cRr5pdUDSo5Hkh" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/cRr5pdUDSo5Hkh" width="640" height="480" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 <br> Я заранее благодарю Вас за любую реакцию на отражение моего мира. <br>
 <br> С уважением, Федоренко Андрей
